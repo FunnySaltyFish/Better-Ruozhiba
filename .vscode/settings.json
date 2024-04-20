@@ -1,0 +1,9 @@
+{
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        // 开启自动换行
+        "editor.wordWrap": "on",
+    }
+}
