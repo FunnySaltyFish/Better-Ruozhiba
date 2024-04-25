@@ -6,8 +6,8 @@ language:
 - zh
 ---
 
-## [WIP] Better Ruozhiba
-> 进度 2000 / 5970 行
+## [进行中] Better Ruozhiba
+> 进度 2364 / 5970 行
 
 原项目为 https://huggingface.co/datasets/LooksJuicy/ruozhiba，原部分答案为 GPT-4 生成。本人**人为审阅了每一条的原文和回复**，剔除了一些原文中的格式错误，修改或重写了部分答案。希望对大语言模型的中文语料有所帮助。
 
