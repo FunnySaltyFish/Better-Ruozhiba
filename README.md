@@ -24,8 +24,9 @@ language:
     title={Better Ruozhiba},
     author={Ruozhiba, FunnySaltyFish},
     year={2024},
-    publisher={Hugging Face},
-    url={https://github.com/FunnySaltyFish/Better-Ruozhiba}
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/FunnySaltyFish/Better-Ruozhiba}}
 }   
 ```
 
