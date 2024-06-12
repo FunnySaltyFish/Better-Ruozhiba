@@ -16,6 +16,10 @@ language:
 ## 参与贡献
 如果有意参与贡献，请查看[此 issue](https://github.com/FunnySaltyFish/Better-Ruozhiba/issues/1)
 
+贡献者列表：
+[![](https://contrib.rocks/image?repo=FunnySaltyFish/Better-Ruozhiba)](https://github.com/FunnySaltyFish/Better-Ruozhiba//graphs/contributors)
+
+
 ## 引用
 如果本项目对你有所帮助，请引用：
 
