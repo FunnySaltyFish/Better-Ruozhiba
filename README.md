@@ -7,9 +7,10 @@ language:
 ---
 
 ## [进行中] Better Ruozhiba
-> 进度 4365/5942 行
+> 进度 [1-4365, 5794-last]
+> 指 1~4365行 和 5794行到最后一行 这两段已经处理完毕，余下行数待处理
 
-原项目为 [https://huggingface.co/datasets/LooksJuicy/ruozhiba](https://huggingface.co/datasets/LooksJuicy/ruozhiba)，原部分答案为 GPT-4 生成。本人**人为审阅了每一条的原文和回复**，剔除了一些原文中的格式错误，修改或重写了部分答案。希望对大语言模型的中文语料有所帮助。
+原项目为 [https://huggingface.co/datasets/LooksJuicy/ruozhiba](https://huggingface.co/datasets/LooksJuicy/ruozhiba)，原部分答案为 GPT-4 生成。贡献者们**人为审阅了每一条的原文和回复**，剔除了一些原文中的格式错误，修改或重写了部分答案。希望对大语言模型的中文语料有所帮助。
 
 > PS.  正儿八经回答弱智吧的问题，真是一种奇妙的感觉
 
@@ -26,7 +27,7 @@ language:
 ```bibtex
 @misc{funnysaltyfish2024better-ruozhiba,
     title={Better Ruozhiba},
-    author={Ruozhiba, FunnySaltyFish},
+    author={Ruozhiba, FunnySaltyFish, Misdirection},
     year={2024},
     publisher = {GitHub},
     journal = {GitHub repository},
