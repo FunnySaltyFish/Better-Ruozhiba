@@ -7,8 +7,8 @@ language:
 ---
 
 ## [进行中] Better Ruozhiba
-> 进度 [1-4924, 5794-last]  
-> *指【1~4924行】和【5794行到最后一行】这连续两段间的内容已经处理完毕，余下行数待处理
+> 进度 [1-5093, 5794-last]  
+> *指【1~5093行】和【5794行到最后一行】这连续两段间的内容已经处理完毕，余下行数待处理
 
 原项目为 [https://huggingface.co/datasets/LooksJuicy/ruozhiba](https://huggingface.co/datasets/LooksJuicy/ruozhiba)，原部分答案为 GPT-4 生成。贡献者们**人为审阅了每一条的原文和回复**，剔除了一些原文中的格式错误，修改或重写了部分答案。希望对大语言模型的中文语料有所帮助。
 
